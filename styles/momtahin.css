@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background:  black;
+}
+/* nav bar section styles */
+.nav-title{
+    color: #ffff;
+    font-weight: 700;
+font-size: 36px;
+margin-left: 70px;
+margin-top: 30px;
+}
+nav{
+    color: #ffff;  
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+   
+}
+nav ul{
+    
+    display: flex;
+    align-items: center;
+    margin-right: 80px;
+    
+    
+}
+nav li{
+list-style: none;
+margin-left: 40px;
+font-size: 18px;
+}
+/* btn styles */
+.btn-primary{
+    font-size: 18px;
+    font-weight: 500px;
+    padding: 15px 15px;
+    background-color: gray;
+    
+    border: 0;
+    border-radius: 10px;
+}
+/* specific span styles */
+.t-alphabet{
+    color: cornflowerblue;
+}
+div{
+    color: #ffff;
+   
+}
+/* banner-styles */
+.banner{
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+    justify-content: space-between;
+}
+.banner-sub-title{
+    font-weight: 700;
+    font-size: 48px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.banner-paragraph{
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+/* about section */
+.about{
+    color: #ffff;
+
+}
+.section-title{
+    margin-top: 50px;
+text-align: center;
+font-size: 40px;
+font-weight: 600;
+
+}
+.section-paragraph{
+    margin-top: 30px;
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 300px;
+
+}
+.about-info-container{
+    color: #ffff;
+    display: flex;
+   
+}
